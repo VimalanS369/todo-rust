@@ -58,6 +58,16 @@ A simple to-do program written in Rust using the `clap` crate for command-line a
 
   
 
+### Help
+
+  
+
+```bash
+
+./todo-rust  --help
+
+```
+
 ## How to Run
 
   
